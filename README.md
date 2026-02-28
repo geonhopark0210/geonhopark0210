@@ -11,7 +11,7 @@
 ```mermaid
 flowchart LR
     CEA["🧒 CEA\n아동기 정서적 학대\n(독립변수)"]
-    DERS["😞 DERS\n정서조절곤란\n(매개변수)"]
+    DERS["😞 DERS \n 정서조절곤란 \n(매개변수)"]
     DEP["📉 Depression\n우울 증상\n(결과변수)"]
     MEN["🧠 Mentalization / RFQ\n반성적 기능\n(조절변수)"]
 
